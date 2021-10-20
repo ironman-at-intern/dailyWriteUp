@@ -1,0 +1,24 @@
+SYNOPSIS
+   ASSIGNMENTS
+   PLANNING MEETING
+   GIT
+
+
+ I was absent for 2 days class, kind of, so i knew i am behind every interns so as i expected, i had lot of work to do to cope up with other interns. And i need to work more than ive worked these days.
+
+
+Assignments
+   i was given an assignment to complete they are leave application portal that can be website or application and recruitment portal. And to learn about html,css,js by jack wright..
+  These assignments are needed to be developed from the scratch and its not like the other tasks i had, i had already broken down some apps that are in the market so i can have those as examples this leave application portal  completely needs my thinking and yeah its kind of hard to think from scratch. i now understood that, to develop an app we first need to know all the pillars of the app,so that we could break it down completely. I know about the leave application process. so it isnt that hard to do that, but the recruitment portal,ive never worked in those abouts or in it. so it really hard to practically think what and how it should be. we need to know the steps to reach the outcome, so the fundamendals and research are needed in whatever we do.
+
+And next i leart about html basics, i learned the basics of html in jack wright lessons, he kind of taught the complete basics of how a html code should be it should contain a open html tag and a closing of html tag in the end with a slash in the end tag. then it needs to have a head with opening and closing tags and next is the body with open and closing tags. And the body will contain paragraph,text etc.
+Next the style will be written after the head in css, used for styling the page.
+
+Planning meeting:
+   we had a planning meeting at 11am, it was a good start by ernest. i never thought of start a meeting, so ernest put something new ahead it was good. so the team meeting happening for this, as alan will be on leave for the next week, his work has been planned to break and done by all the others so that there wiil be no lag in the project delivery. even if an intern becomes an employee, he has to manage the exercies and employee works that is design or developing.
+
+
+Git:
+   I registered in github, ive struggled a lot at first and eventually installed it with some hard work and lot of luck. then the key didnt work in the github,kalyan and newall helped registering the key in github still the progress was not satisfiable and then askin helped me generating a new key as it kept asking for password key. even when we tried all the possible passwords it didnt work. so its a way that if struck blindly somewhere its a considering idea to restart the whole process or a part of process.
+
+

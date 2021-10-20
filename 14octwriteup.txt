@@ -1,0 +1,21 @@
+SYNOPSIS
+  Askin session
+ 
+
+
+
+  As usual a new morning, but unusually i was more excited to do something productive and to learn as i wasted a day in hospital with my eyes irritating.
+
+Askin session:
+
+ We were working in angular web page development. we learnt about components and categories and how to navigate a div in side. And the command prettier aligns the command in the way we set giving a better impression and looks in the code page.
+The next is the hover used that is for when the user interacts with an element with cursor it points and shows selecting by highlighting that text or element.
+The next is array will be put in square bracket that contains multiple characters and integers the strings are put in quotes. Then the ID needs to be accessed by the tag #. As ID are not repeatedly used in the command.
+
+Framework:
+   then i started to learn frameworks and classifications. that is where i took a wrong decision, even my mentor asked me to work in paper pen. But as i wanted to learn more to compensate the last half day leave, i started straining my eye, after a long time i noticed that my eye has strained a lot at the culture meet.
+
+Culture meet:
+  It was my first culture meet of my 3 weeks of intern. All the employyes of surfboard,coreillustrio will be there for the meet. anna will talk about culture of surfboard i guess, coz i was not in the perfect condition to follow him. That time my eye irritation went up. 
+
+After culture meet ends, ive given up on myself that i was ready to leave intern for this because i didnt know what was happening. there were no relations with those symptoms.And still my mentor and anna didnt giveup on me. That is where i learnt i need to be more adamant with what i want and be more resistive.Health is everything and we dont need anyone untill we have a fall. so friends, colleagues, relatives, parents, all are needed for all
