@@ -1,0 +1,34 @@
+SYNOPSIS
+  Askin session
+  Recruitment portal
+  Abraham session
+  Task
+
+
+Askin session:
+   Today we learnt about API that is application programmable interface. An api is a connection between computers or between computer programs.the real time example is a news article that shows a news with an reference of twitter page. so  if we click the link it redirects to twitter.so that interface that works inbetween the twitter page and news page is the API.And we were asked to check what is request and its types the  commonly used requests are get and post, while get is used to request a specified resource. And post is used to send data to a server to create/upload a resource.
+
+
+Recruitment portal:
+   I was asked to create a recruitment portal,that is solves the problem of the jobless graduates and admin who needs employees.and also it makes search wider and effective. so developing an app needs all side constrains and goals only then can we develop something that sustains.
+
+
+
+Abraham session:
+   So anna taught about data today, and what we learnt these days are kind of not necessary than problem solving and how to approach a problem. a data is an information that is used for analyze and reference.
+  And abstraction is what we learnt today, abstraction is looking for data in something for the analysis or getting outcome of something. 
+  data is of three types useless data, that is the data cannot be used for any eevaluation or analysis.
+  data that is used for the part of creating an algorithm are a kind of data that is used for clearly understand the constrains.
+  data that is used to provide context to create or frame  an algorithm is a type of data.
+  So data is everything that makes everything. air contains data and water contains data.
+Strings are alphabetical symbols which can be used under  "' these quotations and numbers and boolean that is if the condition is true or false.
+ This is how abstracion is done with data abstracting strings numbers and boolean data.
+
+
+Task:
+  Anna gave us a task to absrtract data from elevator functioning and we tried it our best way so that we clearly understood what is abstraction.And we tried it practically going in the lift analysing its working. So the elevator works depending on the program, if we are in level 1 inside the elevator and the level 5 button is pressed then level b1 is pressed, then the elevator goes to level 5 and then it goes to level b1.So the elevator takes input accordingly, whichever the input is given first it takes and starts working in it.
+ If the elevator is moving from level 1 to level 5, operated from the inside, if the call button is pressed at the 2nd floor and 3rd floor,Then the elevator stops at level  and 3 and then goes straingt to 5th floor. so going by the way it stops in  floors even if the input is taken first as 5th level.
+ So the elevator completely works on the preference of the input given.
+
+
+
