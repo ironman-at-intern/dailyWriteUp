@@ -1,2 +1,0 @@
-# dailyWRite
-# dailywriteup
