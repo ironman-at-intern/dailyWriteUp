@@ -1,0 +1,23 @@
+SYNOPSIS
+  Product Development
+  Abraham Session
+  Fun Learning
+
+
+
+
+Product development:
+  I was working on leave portal, completely only on this coz i am struggling in doing paperwork in both at the same time i didnt know if it it was because of that or i know how a leave portal works and i know less about recruitment portal. So i must dig deep about recruitment portal so that i can break it down completely.
+ I had some fundemendal build doubts like how and what should i do next like holding a branch, i can see a lot of branches to go to, i didnt know ehat to do next i see a lot of way to go and write, but i didnt know what to know and mentor even when busy, helped me sort it out. then it went smooth, kind of honestly, because it looks so simple to see from the outside and the problem is i see a lot of things in my mind running and i didnt know what to put in paper and what to leave, so ive made up my mind that i will write everything in the paper and take what i want and leave what i dont need.Even though its not a big thing but that small thing helped me a lot.
+
+Aswin and anoop helped me how a portal could be and not be, that helped me  preparing the product and add a better feature.
+
+
+Abrahams session:
+  Today we learned about computer, yes computer is dumb in a manner and intelligent in a manner. A single key press in a system, we sometimes think that the response could be better, but what happens inside is mindblowing.
+a single key in keypad, there happens a whole big process that we need a half life to know about it. So presssing a in keypad it tells the system in a translated language, a unicode, that is a 61 in human number, in binary 111101 and A if pressed it gives a binary digit 1100001 and that gets translated into many languages.
+So the english is mostly common language used, even that is not precise language, so the precise language is binary bits. now the switch, it is a pnp and npn transisistor, what a transistor is two diodes connected facing each other that has a certain limit  of voltage, if the voltage exceeds the the switch works, so every time a switch is pressed 8 switches turns on and off to tell the computer todo a certain task. All this works in Unicode transformation format, and there are lots of UTF versions. And letters combined to form a word,words combined to form a clause combined to form a paragraph combined to form a chapter.In system language these are same but in diffrent version.
+And learnt somethings about electronics, that could have learnt in engineering, ive never cared about what these are but now i like learning these, doesnt know why, is is that curiousnesss that he creates or the responsibility that i waant to know about. but somehow im learning.
+
+Fun Learning:
+And the best thing about the office is that not we become a programmer or a some designer here, we can learn a lot of things like, music, dancing,guitar book reading, and time management, so all we need is just time management and love for what we do. so that we get to learn more. 
