@@ -1,0 +1,21 @@
+SYNOPSIS
+  Abraham session
+  Product presentation
+  
+
+
+
+
+Abraham session
+ We had abraham session at noon before lunch, anna taught about translator  Basically translator has many working process in it,first one is the tokeniser, that is lexical analysis. When an program is executed, it first checks for the spaces and punctuations in the program. Next is the syntax analysis, from the name it checks the syntax in the program whether the syntax is correct, next it goes through semantic analysis that  is the reference error, if we declared some object or function in a place and and that failed to fetch or no object to fetch, then it is semantic analysis.And the last is the code generation, which checks for the code.
+  If any of this is found error, then it throws an error. so that we need to check the program again.
+
+And we were asked to abstract function of lift, and we doesnt seem to have done it well. And he wanted us to think more dig deeper than this. So we were asked to do it again. this is the task and we have another to do.And the extraction must be in a mathematical order, like how the lift works must be in a formula that must satisfy all the operations. however the lift is pressed or called it has to work in that formula. 
+And we were asked to look what is registers, multiplexers, gates and adderess.
+
+
+Product presentation:
+  I was preparing for the presentation, that i am developing a leave portal,so anoop helped me with creating slides. What i did was, create slides without planning. so first i need to plan the slide order and then need to prepare slide. thats where ive wasted lot of time. Im planning to complete my slide tomorrow but have lots of homework to do what anna gave me.
+
+I  was preparing slides in canva site,aswin recomended this site and it was good for its animation and all as they provide me with templates.The only problem with that is we cant customise it as we like, but the templates has helped me with some presentations even i didnt buy the premium.
+I was asked by my mentor to not use the canva editor for ppt, instead use google slides for ppt.

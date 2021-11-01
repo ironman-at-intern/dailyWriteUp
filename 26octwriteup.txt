@@ -1,0 +1,24 @@
+SYNOPSIS
+   Lift Extraction
+   Anna session
+
+
+
+
+
+Lift Extraction:
+  We were asked to extract lift function, and need to build a formula that satisfies the lift function. george came up with a solution and we managed to work in it and it partially satisfied the demands.
+But i done nothing in this and my contribution was nil there, so i worked for some other possibilities and i made a solution, that is also a kind of solution to the elevator extraction problem.
+The lift can work in time management function, by calculating the diffrences between the input and current floor.
+If the lift is in 2nd floor and one key is pressed form 6th floor and another key is pressed from ground floor(0) where do the lift moves, first it works on the basis of first come first serve, it checks which is pressed first  and it calculates the weight and where it came from so that a cycle gets completed. Now the diffrence between these two floors will be evaluated and moves to the floor that we set.
+It also can calculate how much weight is in the lift and if the weight exceeds it stops and doesnt move so that someone has to get off the lift.
+But anna said the elevator works in counter weight system so if there is no one in the lift it moves up and down in a irregular speed so that it has    high rate of crashing.
+
+
+
+Anna session:
+  Today we learnt  how to build a programming language, from the base we     were studying, today we learnt what primitive things are and in a program.  First is the string iteral, that a string is something that comes under double quotes that are said to be strings.Next is the numbers they are 0 to 9 are numbers that can be in any digit form.Boolean is the true or false that looks for a statement is true or false,last is the null has two types undefined and void.
+
+A task was given to us that we need to make a compiler, so we are learning about the primitive things in programming. With those as base we need to make a compiler of our own.
+
+After the session i had some doubts in that where gayathri helped me, she   taught me about functions array and let and what has to come after let an identifier has to come following the let declaration. Also how a loop works in while for and do functions.                             
